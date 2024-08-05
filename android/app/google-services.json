@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412997677492",
+    "project_id": "iifreceiver-f4983",
+    "storage_bucket": "iifreceiver-f4983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412997677492:android:e75d92b09d4ee4a1a7c2e1",
+        "android_client_info": {
+          "package_name": "com.siipl.iir_receiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTdleSXDfNoa8Qu42f9JS_mTH9JNZHUvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
